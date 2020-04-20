@@ -1,0 +1,4 @@
+#Thu Mar 05 17:34:44 COT 2020
+base.0=C\:\\Users\\maxla\\Downloads\\CodeLab_ML_FaceDetection_Demo\\CodeLab_ML_FaceDetection_Demo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

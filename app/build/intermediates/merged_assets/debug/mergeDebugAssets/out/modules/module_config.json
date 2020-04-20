@@ -1,0 +1,7 @@
+{
+  "module_name":"huawei_module_mlkit_face",
+  "pkg_name":"com.huawei.hms.mlkit.face",
+  "file_name":"MLKitFace.apk",
+  "module_loader":"huawei_module_dynamicloader",
+  "module_lib":"arm64-v8a,armeabi-v7a"
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<open-source-software-notice version= "1.0.2.300" update-time="2020-02-26">
+    <item>
+        <software>ml-computer-vision-face-recognition-apk</software>
+        <version>1.0.2.300</version>
+        <copyright-notice>Copyright (c) 2019-present, Huawei, Inc. All rights reserved.</copyright-notice>
+        <license-type>ml-computer-vision-face-recognition-apk/LICENSE</license-type>
+        <license-text>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</license-text>
+    </item>
+    <item>
+        <software>OpenCV</software>
+        <version>4.1.2</version>
+        <copyright-notice>
+            Copyright (C) 2000-2019, Intel Corporation, all rights reserved.
+            Copyright (C) 2009-2011, Willow Garage Inc., all rights reserved.
+            Copyright (C) 2009-2016, NVIDIA Corporation, all rights reserved.
+            Copyright (C) 2010-2013, Advanced Micro Devices, Inc., all rights reserved.
+            Copyright (C) 2015-2016, OpenCV Foundation, all rights reserved.
+            Copyright (C) 2015-2016, Itseez Inc., all rights reserved.
+            Third party copyrights are property of their respective owners.
+        </copyright-notice>
+        <license-type>BSD 3-clause Clear License</license-type>
+        <license-text>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</license-text>
+    </item>
+    <item>
+        <software>gson</software>
+        <version>2.8.5</version>
+        <copyright-notice>
+            Copyright 2008 Google Inc.
+            Licensed under the Apache License, Version 2.0 (the "License");
+        </copyright-notice>
+        <license-type>Apache License 2.0</license-type>
+        <license-text>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</license-text>
+    </item>
+    <item>
+        <software>libc++</software>
+        <version>ndk r16b</version>
+        <copyright-notice>
+            University of Illinois/NCSA
+            Open Source License
+            Copyright (c) 2009-2019 by the contributors listed in CREDITS.TXT
+            All rights reserved.
+            Developed by:
+            LLVM Team
+            University of Illinois at Urbana-Champaign
+            http://llvm.org
+        </copyright-notice>
+        <license-type>MIT License</license-type>
+        <license-text>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</license-text>
+    </item>
+</open-source-software-notice>
